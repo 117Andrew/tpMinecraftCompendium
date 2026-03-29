@@ -2,16 +2,15 @@
 
 ## Grupo
 ### Integrantes
-* legajo - Apellido(s), Nombre(s)
+* 51026 Albanesi, Julian Andres
+* 51340 - Mendoza Sardiña, Andres Emilio
 
 ### Repositorios
-* [frontend app](http://hyperlinkToGihubOrGitlab)
-* [backend app](http://hyperlinkToGihubOrGitlab)
-*Nota*: si utiliza un monorepo indicar un solo link con fullstack app.
+* [fullstack app](https://github.com/117Andrew/tpMinecraftCompendium.git)
 
 ## Tema
 ### Descripción
-*2 a 6 líneas describiendo el negocio (menos es más)*
+Una pagina dedicada para construcciones decorativas y de carecter tecnico para el videojuego minecraft. Con el fin de poder compartir distintos diseños a la comudidad del videojuego, mediante archivos, imagenes y/o videos
 
 ### Modelo
 ![imagen del modelo]()
