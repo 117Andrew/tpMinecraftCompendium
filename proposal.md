@@ -13,7 +13,7 @@
 Una pagina dedicada para construcciones decorativas y de carecter tecnico para el videojuego minecraft. Con el fin de poder compartir distintos diseños a la comudidad del videojuego, mediante archivos, imagenes y/o videos
 
 ### Modelo
-![imagen del modelo]()
+![imagen del modelo](.Imgs/MD_MinecraftCompendium.png)
 
 *Nota*: incluir un link con la imagen de un modelo, puede ser modelo de dominio, diagrama de clases, DER. Si lo prefieren pueden utilizar diagramas con [Mermaid](https://mermaid.js.org) en lugar de imágenes.
 
