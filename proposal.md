@@ -20,7 +20,19 @@ Regularidad:
 |Req|Detalle|
 |:-|:-|
 |CRUD simple|1. CRUD Tag <br>2. CRUD Usuario|
-|CRUD dependiente|1. CRUD Publicacion {depende de} CRUD Usuario <br>2. CRUD Imagen {depende de} CRUD Publicacion <br>3. CRUD Archivo {depende de} CRUD Publicacion|
-|Listado<br>+<br>detalle| 1. Listado de publicaciones filtrado por categoria de publicacion, muestra titulo e imagen; => detalle muestra fecha de publicacion, categoria, cantidad de descargas y link asociado a la publicacion|
-|CUU/Epic|1. Login del usuario<br>2. Crear publicacion<br>3. Modificar publicacion|
+|CRUD dependiente|1. CRUD seguimiento {depende de} CRUD Usuario <br>|
+|Listado<br>+<br>detalle| 1. Listado de publicaciones filtrado por tag|
+|CUU/Epic|1. Crear publicacion|
 
+Adicionales para aprobación
+|Req|Detalle|
+|:-|:-|
+|CRUD |1. CRUD Publicacion <br>2. CRUD Adjuntos <br>3. CRUD Comentarios|
+|CUU/Epic|1. Crear publicacion con adjuntos <br>2. Moderear comentarios con IA|
+
+### Alcance adicional voluntario
+|Req|Detalle|
+|:-|:-|
+|Listados|1. Listado de publicacion de usarios seguidos|
+|CUU/Epic| 1. Moderar contenido con IA <br> 2. Moderacion de imagenes con IA|
+|Otros|1. Nivel de usario por cantidad de descargas totales|
